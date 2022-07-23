@@ -1,4 +1,13 @@
 
+
+
+## Authors
+
+- [@FireTamer81](https://www.github.com/FireTamer81)
+
+
+
+
 ## Usage/Examples
 
 ```java
@@ -210,10 +219,3 @@ public class RadialTestScreen extends AbstractRadialMenu {
     public boolean isPauseScreen() { return false; }
 }
 ```
-
-
-## Authors
-
-- [@FireTamer81](https://www.github.com/FireTamer81)
-- [@entisyde](https://www.github.com/entisyde)
-
